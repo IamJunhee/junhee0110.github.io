@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "뚝딱뚝딱"
 title_separator          : "|"
-subtitle                 : "생각나는 대로" # site tagline that appears below site title in masthead
+subtitle                 : "생각나는 대로 - 일단 부딪혀 보아요" # site tagline that appears below site title in masthead
 name                     : "Lee Junhee"
 description              : "공부하고 싶은대로 마이웨이로 공부하는 기록들"
 url                      : "https://junhee0110.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,9 +95,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lee Junhee"
+  name             : "이준희"
   avatar           : "/assets/image/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "일단 부딪혀 보아요"
+  bio              : "Hanyang University\nDept. of Mechanical Engineering\n\n공부하고 싶은대로 마이웨이로 공부하는 기록들"
   location         : "Seoul"
   email            :
   links:
