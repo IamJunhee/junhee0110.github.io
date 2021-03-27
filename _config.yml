@@ -96,8 +96,8 @@ analytics:
 # Site Author
 author:
   name             : "이준희"
-  avatar           : "/assets/image/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hanyang University\nDept. of Mechanical Engineering\n\n공부하고 싶은대로 마이웨이로 공부하는 기록들"
+  avatar           : "/assets/image/avatar2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hanyang University\n\nDept. of Mechanical Engineering\n\n마이웨이로 공부하는 기록들"
   location         : "Seoul"
   email            :
   links:
