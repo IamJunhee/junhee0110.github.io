@@ -1,10 +1,9 @@
 /* ==========================================================================
    STYLE RESETS
    ========================================================================== */
+@import "minimal-mistakes";
 
 * { box-sizing: border-box; }
-
-@import "minimal-mistakes";
 
 html {
   /* apply a natural box layout model to all elements */
