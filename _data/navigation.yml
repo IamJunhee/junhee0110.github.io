@@ -2,3 +2,11 @@
 main:
     - title: "About"
       url: /about/
+    - title: "Posts by Categories"
+      url: /categories/
+
+sidebar_category:
+  - title: "프로젝트"
+    children:
+    - title: "가정용 도서 관리 시스템"
+      url: /categories/Home_Lib/
